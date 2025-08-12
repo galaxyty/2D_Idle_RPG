@@ -1,0 +1,16 @@
+{
+    "name": "BaseBoss",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1f6caa2b1fc281d4e9610057570e771d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

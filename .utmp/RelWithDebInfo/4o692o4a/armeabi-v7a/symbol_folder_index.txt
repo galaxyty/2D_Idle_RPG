@@ -1,0 +1,1 @@
+C:\Users\pc\Desktop\UnityProject\2D_RPG\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\4o692o4a\obj\armeabi-v7a

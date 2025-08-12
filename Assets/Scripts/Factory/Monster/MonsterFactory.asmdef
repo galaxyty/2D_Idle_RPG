@@ -1,0 +1,16 @@
+{
+    "name": "MonsterFactory",
+    "rootNamespace": "",
+    "references": [
+        "GUID:070d0ea814d17304f9aab4b8d3ffeb79"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
